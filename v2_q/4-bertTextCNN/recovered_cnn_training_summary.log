@@ -1,0 +1,16 @@
+2025-12-13 00:03:35 - INFO - Epoch: 0.51, Step: 650, Train Loss: 0.2086, Learning Rate: 1.02e-05
+2025-12-13 00:29:32 - INFO - Epoch: 0.99, Step: 1250, Train Loss: 0.1630, Learning Rate: 1.97e-05
+2025-12-13 00:57:40 - INFO - Epoch: 1.50, Step: 1900, Train Loss: 0.1332, Learning Rate: 1.89e-05
+2025-12-13 01:25:47 - INFO - Epoch: 2.01, Step: 2550, Train Loss: 0.1150, Learning Rate: 1.78e-05
+2025-12-13 01:51:45 - INFO - Epoch: 2.48, Step: 3150, Train Loss: 0.0943, Learning Rate: 1.67e-05
+2025-12-13 02:19:52 - INFO - Epoch: 3.00, Step: 3800, Train Loss: 0.0889, Learning Rate: 1.56e-05
+2025-12-13 02:47:59 - INFO - Epoch: 3.51, Step: 4450, Train Loss: 0.0615, Learning Rate: 1.44e-05
+2025-12-13 03:13:57 - INFO - Epoch: 3.98, Step: 5050, Train Loss: 0.0721, Learning Rate: 1.34e-05
+2025-12-13 03:42:04 - INFO - Epoch: 4.50, Step: 5700, Train Loss: 0.0576, Learning Rate: 1.22e-05
+2025-12-13 04:10:12 - INFO - Epoch: 5.01, Step: 6350, Train Loss: 0.0441, Learning Rate: 1.11e-05
+2025-12-13 04:36:09 - INFO - Epoch: 5.48, Step: 6950, Train Loss: 0.0423, Learning Rate: 1.00e-05
+2025-12-13 05:04:17 - INFO - Epoch: 5.99, Step: 7600, Train Loss: 0.0288, Learning Rate: 8.90e-06
+2025-12-13 05:32:24 - INFO - Epoch: 6.51, Step: 8250, Train Loss: 0.0184, Learning Rate: 7.77e-06
+2025-12-13 06:00:31 - INFO - Epoch: 7.02, Step: 8900, Train Loss: 0.0324, Learning Rate: 6.63e-06
+2025-12-13 06:26:29 - INFO - Epoch: 7.49, Step: 9500, Train Loss: 0.0189, Learning Rate: 5.57e-06
+2025-12-13 06:54:36 - INFO - Epoch: 8.00, Step: 10150, Train Loss: 0.0189, Learning Rate: 4.44e-06
